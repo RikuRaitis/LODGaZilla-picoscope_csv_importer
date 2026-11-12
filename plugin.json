@@ -1,0 +1,10 @@
+{
+  "id": "picoscope_csv_importer",
+  "title": "PicoScope CSV importer",
+  "capabilities": [
+    "importer"
+  ],
+  "entry_point": "importer.py",
+  "api_version": 1,
+  "version": "0.1.0"
+}

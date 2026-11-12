@@ -1,0 +1,27 @@
+{
+  "navigator": {
+    "series_metadata": [
+      { "id": "sample_count", "title": "Sample count", "source": "sample_count", "format": "integer" },
+      { "id": "sample_rate", "title": "Sample rate", "source": "sample_rate", "format": "rate" },
+      { "id": "min", "title": "Min", "source": "min", "format": "number" },
+      { "id": "max", "title": "Max", "source": "max", "format": "number" },
+      { "id": "unit", "title": "Unit", "source": "unit", "format": "text" },
+      { "id": "warning", "title": "Warning", "source": "warning", "format": "text" }
+    ]
+  },
+  "sections": [
+    {
+      "name": "PicoScope",
+      "series": [
+        { "name": "Channel A", "group": "PicoScope", "unit": "", "visibility": "visible" },
+        { "name": "Channel B", "group": "PicoScope", "unit": "", "visibility": "visible" },
+        { "name": "Channel C", "group": "PicoScope", "unit": "", "visibility": "visible" },
+        { "name": "Channel D", "group": "PicoScope", "unit": "", "visibility": "visible" },
+        { "name": "Channel E", "group": "PicoScope", "unit": "", "visibility": "visible" },
+        { "name": "Channel F", "group": "PicoScope", "unit": "", "visibility": "visible" },
+        { "name": "Channel G", "group": "PicoScope", "unit": "", "visibility": "visible" },
+        { "name": "Channel H", "group": "PicoScope", "unit": "", "visibility": "visible" }
+      ]
+    }
+  ]
+}

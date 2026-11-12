@@ -1,0 +1,2 @@
+# Tested on Windows with Python 3.11; other environments use requirements ranges.
+numpy==1.25.2; python_version == "3.11" and sys_platform == "win32"
